@@ -72,6 +72,7 @@ I also noticed people don't realize how expensive waiting is. Start 5 years late
 - **Early vs. Late Comparison**: Side-by-side scenario analysis
 - **Inflation Impact Meter**: Visual representation of cost increases
 - **Smart Insights**: Personalized financial recommendations
+- **Monte Carlo Simulation**: Probability-based wealth projection with confidence intervals
 
 ### Data Persistence
 - **Calculation History**: Save and retrieve past calculations
@@ -136,6 +137,7 @@ futurenest/
 │   │   ├── InflationChart.tsx    # Inflation analysis
 │   │   ├── EarlyVsLate.tsx      # Comparison tool
 │   │   ├── PortfolioSimulator.tsx # Scenario testing
+│   │   ├── ProbabilityCalculator.tsx # Monte Carlo simulation
 │   │   └── ...
 │   ├── context/                 # React Context
 │   │   └── CalculatorContext.tsx # Global state management
@@ -229,7 +231,7 @@ If you advise clients, you can use the comparison tools to show why starting ear
 
 ## Developer
 
-**Built entirely by**: [Your Name]
+**Built entirely by**: Diptesh Roy
 
 **Roles Handled**:
 - Full Stack Development (Next.js, Express, MySQL)
