@@ -2,6 +2,8 @@
 
 **Smart, Inflation-Aware Investment Planning for India's Future**
 
+> **For Judges**: Complete project details, architecture, and technical documentation available in **[Documentation.md](./Documentation.md)**
+
 FutureNest is a goal-based investment calculator that factors in inflation to show you the *real* monthly SIP required to achieve your financial goals. Unlike standard calculators that ignore rising costs, FutureNest ensures you save enough to actually meet your targets.
 
 ---
@@ -280,6 +282,19 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
+
+## Documentation
+
+For comprehensive project information, see **[Documentation.md](./Documentation.md)** which includes:
+- Detailed feature explanations
+- Architecture and tech stack breakdown
+- Financial mathematics formulas
+- Use cases with real-world examples
+- Business impact analysis
+- Roadmap and future phases
+- Developer credits
 
 ---
 
