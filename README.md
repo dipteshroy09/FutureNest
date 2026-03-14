@@ -4,7 +4,7 @@
 
 > **For Judges**: Complete project details, architecture, and technical documentation available in **[Documentation.md](./Documentation.md)**
 
-> **Video Demo**: *[Link to be added - upload video to assets/videos/ or provide external URL]*
+> **Video Demo**: [Watch Project Demo](./assets/videos/FutureNest-Demo.mp4)
 
 FutureNest is a goal-based investment calculator that factors in inflation to show you the *real* monthly SIP required to achieve your financial goals. Unlike standard calculators that ignore rising costs, FutureNest ensures you save enough to actually meet your targets.
 
